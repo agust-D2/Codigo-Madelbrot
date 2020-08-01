@@ -1,0 +1,6 @@
+Modifique el programa del codigo Madelbrot para permitir que los colores y el número de niveles de color se proporcionen como entradas
+
+INSTRUCCIONES:
+Para cambiar el nivel de los colores(de la imagen): 
+1.Dar click derecho en la pantalla para activar el menu
+2.Seleccione el nivel que desee
